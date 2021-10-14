@@ -1,1 +1,2 @@
-# infinite-runner-game-forest
+# spectagram-stage-7
+project solution for c87
